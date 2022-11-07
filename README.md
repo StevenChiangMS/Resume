@@ -1,5 +1,4 @@
 # 姜明劭(Steven)
----
 * Birthday: 1990/07/15
 * Education: 健行科技大學 / 資訊工程系
 * Email: ms0012786@gmail.com
