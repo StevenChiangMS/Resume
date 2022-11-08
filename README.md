@@ -61,6 +61,16 @@
 1. 保持高度清潔
 1. 執行安全與衛生的檢查
 ---
+## 相關認證
++ [Responsive Web Design](https://freecodecamp.org/certification/fcceadcafda-2738-4533-8596-7a37d12b1e6b/responsive-web-design)  
+    <img src="https://i.ibb.co/6Ny13m2/RWD-Certification.png" width="30%" height="30%" alt="Responsive Web Design" />
++ [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/fcceadcafda-2738-4533-8596-7a37d12b1e6b/javascript-algorithms-and-data-structures)  
+  <img src="https://i.ibb.co/p1w4SsW/Java-Script-Certification.png" width="30%" height="30%" alt="JavaScript Algorithms and Data Structures" />
++ [Front End Development Libraries](https://freecodecamp.org/certification/fcceadcafda-2738-4533-8596-7a37d12b1e6b/front-end-development-libraries)  
+  <img src="https://i.ibb.co/kSkKNLw/Front-End-Development-Libraries-Certification.png" width="30%" height="30%" alt="Front End Development Libraries" />
++ [Back End Development and APIs](https://freecodecamp.org/certification/fcceadcafda-2738-4533-8596-7a37d12b1e6b/back-end-development-and-apis)  
+  <img src="https://i.ibb.co/HHM1rC3/Back-End-Development-and-APIs-Certification.jpg" width="30%" height="30%" alt="Back End Development and APIs" />
+---
 ## 參與公司專案
 
 + **2016/9 台茂影城整修及新增IMAX影廳**
