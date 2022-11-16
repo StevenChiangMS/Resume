@@ -72,9 +72,13 @@
   <img src="https://i.ibb.co/HHM1rC3/Back-End-Development-and-APIs-Certification.jpg" width="30%" height="30%" alt="Back End Development and APIs" />
 ---
 ## 作品
-+ [樂享大師國際音樂營](http://34.80.2.124:3000/)  
-  <img src="https://i.ibb.co/0s30NPq/2022-11-16-8-19-39.png" width="30%" height="30%" alt="chambermusic" />
+  + # **[樂享大師國際音樂營](http://34.80.2.124:3000/)**
+ 
+ 
+    <img src="https://i.ibb.co/0s30NPq/2022-11-16-8-19-39.png" width="30%" height="30%" alt="chambermusic" />
+  
 ---
+
 ## 參與公司專案
 
 + **2016/9 台茂影城整修及新增IMAX影廳**
