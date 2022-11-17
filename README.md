@@ -63,19 +63,19 @@
 ---
 ## 相關認證
 + [Responsive Web Design](https://freecodecamp.org/certification/fcceadcafda-2738-4533-8596-7a37d12b1e6b/responsive-web-design)  
-    <img src="https://i.ibb.co/6Ny13m2/RWD-Certification.png" width="30%" height="30%" alt="Responsive Web Design" />
+    <img src="https://i.ibb.co/6Ny13m2/RWD-Certification.png" width="50%" height="50%" alt="Responsive Web Design" />
 + [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/fcceadcafda-2738-4533-8596-7a37d12b1e6b/javascript-algorithms-and-data-structures)  
-  <img src="https://i.ibb.co/p1w4SsW/Java-Script-Certification.png" width="30%" height="30%" alt="JavaScript Algorithms and Data Structures" />
+  <img src="https://i.ibb.co/p1w4SsW/Java-Script-Certification.png" width="50%" height="50%" alt="JavaScript Algorithms and Data Structures" />
 + [Front End Development Libraries](https://freecodecamp.org/certification/fcceadcafda-2738-4533-8596-7a37d12b1e6b/front-end-development-libraries)  
-  <img src="https://i.ibb.co/kSkKNLw/Front-End-Development-Libraries-Certification.png" width="30%" height="30%" alt="Front End Development Libraries" />
+  <img src="https://i.ibb.co/kSkKNLw/Front-End-Development-Libraries-Certification.png" width="50%" height="50%" alt="Front End Development Libraries" />
 + [Back End Development and APIs](https://freecodecamp.org/certification/fcceadcafda-2738-4533-8596-7a37d12b1e6b/back-end-development-and-apis)  
-  <img src="https://i.ibb.co/HHM1rC3/Back-End-Development-and-APIs-Certification.jpg" width="30%" height="30%" alt="Back End Development and APIs" />
+  <img src="https://i.ibb.co/HHM1rC3/Back-End-Development-and-APIs-Certification.jpg" width="50%" height="50%" alt="Back End Development and APIs" />
 ---
 ## 作品
   + # **[樂享大師國際音樂營](http://34.80.2.124:3000/)**
  
  
-    <img src="https://i.ibb.co/0s30NPq/2022-11-16-8-19-39.png" width="30%" height="30%" alt="chambermusic" />
+    <img src="https://i.ibb.co/0s30NPq/2022-11-16-8-19-39.png" width="50%" height="50%" alt="chambermusic" />
   
 ---
 
