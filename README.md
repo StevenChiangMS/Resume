@@ -61,6 +61,19 @@
 1. 保持高度清潔
 1. 執行安全與衛生的檢查
 ---
+## 技能
+  + **前端**
+      * React
+      * JavaScript
+      * HTML
+      * CSS
+  + **後端**
+      * Node
+      * Express
+  + **資料庫**
+      * MongoDb
+      * Mongoose
+---
 ## 相關認證
 + [Responsive Web Design](https://freecodecamp.org/certification/fcceadcafda-2738-4533-8596-7a37d12b1e6b/responsive-web-design)  
     <img src="https://i.ibb.co/6Ny13m2/RWD-Certification.png" width="50%" height="50%" alt="Responsive Web Design" />
