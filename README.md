@@ -45,34 +45,12 @@
 1. 放映機及環境清潔
 1. 完成主管交代之事項
 
-+ **美麗華影城** Miramar Cinemas
-> 工作期間 2010/11 - 2011/5
-職位: 工讀生
-
-1. 接待顧客、帶位服務
-1. 收銀機或相關銷售系統操作
-
-+ **3Q脆皮雞排**
-> 工作期間 2009/2 - 2010/10
-職位: 工讀生
-
-1. 烹煮食品
-1. 控制出菜量以維持食品成本
-1. 保持高度清潔
-1. 執行安全與衛生的檢查
 ---
 ## 技能
-  + **前端**
-      * React
-      * JavaScript
-      * HTML
-      * CSS
-  + **後端**
-      * Node
-      * Express
-  + **資料庫**
-      * MongoDb
-      * Mongoose
+  + 熟悉HTML、CSS及JavaScript可獨立切版完成RWD網頁
+  + 熟悉React Hook，並使用Router完成SPA網頁
+  + 熟悉Node開發後端API
+  + 熟悉MongoDB的Mongoose ODM，並處理CRUD
 ---
 ## 相關認證
 + [Responsive Web Design](https://freecodecamp.org/certification/fcceadcafda-2738-4533-8596-7a37d12b1e6b/responsive-web-design)  
