@@ -76,7 +76,11 @@
  
     <img src="https://i.ibb.co/Ypqbc06/A6981215-7-DF2-40-DE-87-BE-1-FF87-D41-A9-CC.jpg" width="50%" height="50%" alt="chambermusic" />
     
-    前端主要使用React 後端主要使用express js 資料庫使用mongoDB 
+    前端主要使用React
+    
+    後端主要使用express js
+    
+    資料庫使用mongoDB 
 
 ---
 
