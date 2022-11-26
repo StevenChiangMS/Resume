@@ -69,9 +69,9 @@
     
     前端主要使用React
     
-    後端主要使用express js
+    後端主要使用Node js
     
-    資料庫使用mongoDB 
+    資料庫使用MongoDB 
 
 ---
 
