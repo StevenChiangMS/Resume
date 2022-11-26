@@ -74,7 +74,7 @@
 ## 作品
   + # **[樂享大師國際音樂營](http://34.80.2.124:3000/)**
  
-    <img src="https://i.ibb.co/Ypqbc06/A6981215-7-DF2-40-DE-87-BE-1-FF87-D41-A9-CC.jpg" width="50%" height="50%" alt="chambermusic" />
+    [<img src="https://i.ibb.co/Ypqbc06/A6981215-7-DF2-40-DE-87-BE-1-FF87-D41-A9-CC.jpg" width="50%" height="50%" alt="chambermusic" />](http://34.80.2.124:3000/)
     
     前端主要使用React
     
