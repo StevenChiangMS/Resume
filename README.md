@@ -74,9 +74,10 @@
 ## 作品
   + # **[樂享大師國際音樂營](http://34.80.2.124:3000/)**
  
- 
-    <img src="https://i.ibb.co/0s30NPq/2022-11-16-8-19-39.png" width="50%" height="50%" alt="chambermusic" />
-  
+    <img src="https://i.ibb.co/Ypqbc06/A6981215-7-DF2-40-DE-87-BE-1-FF87-D41-A9-CC.jpg" width="50%" height="50%" alt="chambermusic" />
+    
+    前端主要使用React 後端主要使用express js 資料庫使用mongoDB 
+
 ---
 
 ## 參與公司專案
