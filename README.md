@@ -21,9 +21,9 @@
   <img src="https://i.ibb.co/HHM1rC3/Back-End-Development-and-APIs-Certification.jpg" width="50%" height="50%" alt="Back End Development and APIs" />
 ---
 ## 作品
-  + # **[樂享大師國際音樂營](http://34.80.2.124:3000)**
+  + # **[樂享大師國際音樂營](https://ming-shao.ddns.net/)**
  
-    [<img src="https://i.ibb.co/Ypqbc06/A6981215-7-DF2-40-DE-87-BE-1-FF87-D41-A9-CC.jpg" width="50%" height="50%" alt="chambermusic" />](http://34.80.2.124:3000)
+    [<img src="https://i.ibb.co/Ypqbc06/A6981215-7-DF2-40-DE-87-BE-1-FF87-D41-A9-CC.jpg" width="50%" height="50%" alt="chambermusic" />](https://ming-shao.ddns.net/)
     
 1. React Hook開發
 1. React Router 配置路由
